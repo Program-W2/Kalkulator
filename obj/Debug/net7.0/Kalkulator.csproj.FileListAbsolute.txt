@@ -1,0 +1,15 @@
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\Kalkulator.exe
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\Kalkulator.deps.json
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\Kalkulator.runtimeconfig.json
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\Kalkulator.dll
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\Kalkulator.pdb
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\Kalkulator.AssemblyInfo.cs
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\Kalkulator.dll
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\refint\Kalkulator.dll
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\Kalkulator.pdb
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\Kalkulator.genruntimeconfig.cache
+C:\Users\Program-W2\Desktop\Kalkulator\obj\Debug\net7.0\ref\Kalkulator.dll

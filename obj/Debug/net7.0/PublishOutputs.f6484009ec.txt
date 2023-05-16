@@ -1,0 +1,5 @@
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\publish\Kalkulator.exe
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\publish\Kalkulator.dll
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\publish\Kalkulator.deps.json
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\publish\Kalkulator.runtimeconfig.json
+C:\Users\Program-W2\Desktop\Kalkulator\bin\Debug\net7.0\publish\Kalkulator.pdb
